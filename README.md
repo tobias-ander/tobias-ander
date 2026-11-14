@@ -1,6 +1,6 @@
 # Hi, I'm Tobias 👋
 
-Automation engineer and systems manager in operations critical to society, currently on study leave to study [Blockchain Development at Medieinstitutet](https://medieinstitutet.se/utbildningar/blockchainutvecklare/).
+Automation engineer and systems manager, currently on study leave to study [Blockchain Development at Medieinstitutet](https://medieinstitutet.se/utbildningar/blockchainutvecklare/).
 
 I build apps, explore how systems fit together, and automate things that probably worked perfectly well before I got involved.
 
